@@ -1,0 +1,8 @@
+.idea
+.idea_modules
+.backuity
+target
+lib_managed
+.history
+dist/linux/work
+node_modules
